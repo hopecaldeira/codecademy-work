@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+    border: 2px solid red;
+}
+
+h1.title {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h2.colors {
+    background-color: azure;
+    border: 2px solid salmon;
+    width: 800px;
+    height: 400px;
+}
+
+.color1 {
+    background-color: paleturquoise;
+    border: 2px solid orange;
+    width: 150px;
+    height: 80px;
+}

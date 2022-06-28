@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: lightpink;
+}
+
+h1 {
+    color: rgb(160, 41, 76)
+}
+
+table {
+    background-color: white;
+    border: 5px solid red;
+    display: flex;
+}
+
+thead.row1 {
+    border: 5px solid green;
+}
+
+thead.row2 {
+    border: 5px solid aqua;
+}
+
+thead.row3 {
+    border: 5px solid orange;
+}
+
+tbody {
+    display: flex;
+    justify-content: flex-start;
+}
